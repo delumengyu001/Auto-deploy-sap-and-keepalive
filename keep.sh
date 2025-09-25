@@ -1,12 +1,12 @@
 #!/bin/sh
 
 # 环境变量配置
-EMAIL="yztwuxianyou123@2925.com"   # 登录邮箱
-PASSWORD="Yu.982426"     # 登录密码
+EMAIL=""   # 登录邮箱
+PASSWORD=""     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
-URLS="https://api.cf.ap21.hana.ondemand.com"  
-URLS="https://api.cf.ap21.hana.ondemand.com"
+URLS=""  
+URLS=""
 # 颜色定义
 green() {
     echo -e "\e[1;32m$1\033[0m"
