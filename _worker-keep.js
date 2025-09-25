@@ -3,7 +3,7 @@ let email = "yztwuxianyou123@2925.com";      // SAP登录邮箱,直接填写或�
 let password = "Yu.982426";   // SAP登录密码,直接填写或设置环境变量，变量名：PASSWORD
 
 // 离线重启通知 Telegram配置(可选)
-let CHAT_ID = "";    // Telegram聊天CHAT_ID,直接填写或设置环境变量，变量名：CHAT_ID
+let CHAT_ID = "1";    // Telegram聊天CHAT_ID,直接填写或设置环境变量，变量名：CHAT_ID
 let BOT_TOKEN = "";  // Telegram机器人TOKEN,直接填写或设置环境变量，变量名：BOT_TOKEN
 
 // 应用配置 URL和应用名称配置(必填)
